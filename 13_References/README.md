@@ -1,5 +1,5 @@
 
-# 13 — References
+# 12 — References
 
 This section contains the sources used to support the research, technical analysis, existing-solution study, and factual claims presented in the Rentify technical report.
 

@@ -78,6 +78,5 @@ This repository contains the technical documentation, research, system design, m
 09_Results/
 10_Future-Scope/
 11_Diagrams/
-12_Screenshots/
-13_References/
+12_References/
 reports/
